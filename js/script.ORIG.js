@@ -10,10 +10,6 @@ $(document).ready(function(){
    $('.wrapper').toggleClass('menu--is-revealed');
  });
 
- $(document).ready(function(){
-    $("#includeNavContent").load("navigation.html");
- });
-
  /* Half Page Responsive */
 
  $(document).ready(function($) {
